@@ -1,0 +1,8 @@
+1. Triangle Area
+2. Cylinder suraface area, volume
+3. cone suraface area, volume
+4. square area , circumfrance
+5. Circle area, circumfrance
+6. square, cube, sqaure root, cube root
+7. Age calculator.. brithdate....current date.....age.....
+8. BMI calculator 

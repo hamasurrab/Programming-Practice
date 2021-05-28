@@ -1,0 +1,117 @@
+1.
+
+n = 4
+*
+***
+*****
+*******
+
+2.
+n=5
+
+    *
+   ***
+  *****
+ *******
+*********
+
+3.
+
+n=5
+    *
+   +++
+  *****
+ +++++++
+*********
+
+4.
+input -- number 
+output -- number of digits
+
+5.
+BMI calculator with body status
+
+6.
+Input n - any number b/w 0-50
+output -
+print all odd number that are divisible by 3 or 7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Answer:
+3.
+#include<iostream>
+using namespace std;
+int main() {
+    int n;
+    cin>>n;
+
+    for(int i=0;i<=n-1;i++)
+    {
+        for(int j=n-1-i;j>=1;j--)
+        cout<<" ";
+
+        for(int j=1;j<=2*i+1;j++)
+        {
+            if(i%2 !=0)
+            cout<<"*";
+
+            else
+            cout<<"+";
+        }
+
+        cout<<endl;
+    }
+}

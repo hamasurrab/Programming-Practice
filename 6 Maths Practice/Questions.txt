@@ -1,0 +1,15 @@
+1. WAP to print all the odd numbers b/w two numbers. [ Using Function ]
+    input : (number1 , number 2)
+    output : all odd numbers
+
+2. WAP to check if a number is prime or not. [ Using Function ]
+    input : number 
+    output : YES/NO
+    
+3. WAP to check if a number is palindrome or not. [ Using Function ]
+    input : number 
+    output : YES/NO
+
+4. WAP to swap the values of number using function.
+
+5. WAP to calculate the number of digits of numbers using function.

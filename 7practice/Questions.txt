@@ -1,0 +1,23 @@
+1. find out roots, root types.
+    input: a b c d
+    example ax2 + bx +c = d
+
+2. Find out whether my triangle is issoscale, quilateral, 
+    input: sides
+    testcase : 1 2 3 = equilateral 
+              2 3 4 : issoscale
+
+3. Print all the prime numbers b/w two ranges
+input : (a b )
+output: 
+
+4. 
+1. d to ce
+2.
+3.
+.
+.
+.
+Enter your choice
+1
+2
